@@ -49,25 +49,30 @@ streamlit run app.py
 3. Get instant prediction (fresh or rotten)
 
 
-📊 Dataset
+📊 Dataset:
+
 Custom dataset of fruit images
 6 classes (fresh & rotten categories)
 
-🌐 Deployment
+🌐 Deployment:
+
 This app is deployed using Streamlit Cloud.
 👉 (Add your live app link here)
 
-🎯 Future Improvements
+🎯 Future Improvements:
+
 -Add more fruit categories
 -Improve model accuracy
 -Mobile-friendly UI
 -Add confidence score
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
+
 -PyTorch for deep learning framework
 -Streamlit for easy deployment
 
-📬 Contact
+📬 Contact:
+
 Feel free to connect with me on LinkedIn (add your link)
 
 ⭐ If you found this project useful, consider giving it a star!
