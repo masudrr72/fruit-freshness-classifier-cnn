@@ -52,7 +52,7 @@ transform = transforms.Compose([
 page_bg = """
 <style>
 [data-testid="stAppViewContainer"] {
-    background-color: ##2E7D32;
+    background-color: ##2E7D32 !important;
 }
 </style>
 """
