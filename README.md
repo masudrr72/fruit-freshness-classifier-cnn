@@ -57,7 +57,7 @@ Custom dataset of fruit images
 🌐 Deployment:
 
 This app is deployed using Streamlit Cloud.
-👉 (Add your live app link here)
+👉 https://fruit-freshness-classifier-cnn-masudrr72.streamlit.app/
 
 🎯 Future Improvements:
 
